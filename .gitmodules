@@ -1,0 +1,3 @@
+[submodule "foxdo"]
+	path = foxdo
+	url = https://github.com/FoundedPlains/foxdo.git
